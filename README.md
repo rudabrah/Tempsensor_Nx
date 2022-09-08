@@ -1,6 +1,7 @@
 # Tempsensor_Nx
-Kodetest for NxTech - i python
-This is a code test for a job interview. I am free to choose my own programing language, and so i fell on python as it is my go to for quick sollutions. 
+Kodetest for NxTech - i python.
+
+This is a code test for a job interview. I am free to choose my own programing language, and so i fell on python as it is my go to for quick solutions. 
 Depending on the time i will try to solve it in C++ as well.
 
 Python - Use requests to handle the HTTP transfers. The library is quite easy to use and implement.
