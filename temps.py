@@ -9,7 +9,7 @@ backupUrl = 'https://httpbin.org/dump'
 infile = 'temperature.txt'
 totbits = 4096  # 12bit ADC
 slpTime_reads = 0.10
-intervalTime = 1  # timeinterval in sec
+intervalTime = 120  # timeinterval in sec
 prev = 0
 
 
