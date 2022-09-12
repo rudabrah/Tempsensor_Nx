@@ -4,8 +4,8 @@ import time
 import datetime
 
 
-targetUrl = 'https://httpbin.org/get'
-backupUrl = 'https://httpbin.org/dump'
+targetUrl = 'http://localhost:5000/api/temperature'
+backupUrl = 'http://localhost:5000/api/temperature/missing'
 infile = 'temperature.txt'
 totbits = 4096  # 12bit ADC
 slpTime_reads = 0.10
